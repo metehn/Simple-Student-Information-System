@@ -153,7 +153,7 @@ public class Main {
 
 			for (int i = 0; i < stdlist.length; i++) {
 				if (stdlist[i] != null) {
-					filewriter.write(String.valueOf(stdlist[i].getStudent_id())); // 17300186-Metehan-Ersoy-20/08/1998-Male-Turkey
+					filewriter.write(String.valueOf(stdlist[i].getStudent_id())); 
 					filewriter.write("-");
 					filewriter.write(stdlist[i].getFirst_name());
 					filewriter.write("-");
