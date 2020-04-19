@@ -1,2 +1,2 @@
-# Simple-Lexical-Analyzer
-A simple lexical analyzer with java 
+# Simple-Student-Information-System
+A simple student information system with java 
